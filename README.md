@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Raiyan Mahfuz and I'm a Frontend Developer, from Switzerland</p>
+<p align="left">My name is Raiyan Mahfuz and I'm a frontend developer, from Switzerland</p>
 
 # 💫 About Me:
 🔭 I’m currently working on To do Liste<br>🌱 I’m currently learning Next.js & React<br>📫 How to reach me sadgidmahfuz@gmail.com
