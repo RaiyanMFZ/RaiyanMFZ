@@ -39,4 +39,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>![image](https://github.com/user-attachments/assets/6842ab49-b182-4598-b9dd-58c7982bd69c)
+</div>
