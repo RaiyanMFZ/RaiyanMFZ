@@ -1,14 +1,22 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
 <p align="left">My name is Raiyan Mahfuz and I'm a Frontend Developer, from Switzerland</p>
-💫 About Me:
+
+# 💫 About Me:
 🔭 I’m currently working on To do Liste<br>🌱 I’m currently learning Next.js & React<br>📫 How to reach me 
 
-📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaiyanMFZ&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RaiyanMFZ&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiyanMFZ&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 <h2 align="left">I code with</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -32,3 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+###
+
