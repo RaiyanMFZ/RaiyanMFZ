@@ -5,7 +5,7 @@
 <p align="left">My name is Raiyan Mahfuz and I'm a frontend developer, from Switzerland</p>
 
 # 💫 About Me:
-🔭 I’m currently working on To do Liste<br>🌱 I’m currently learning Next.js & React<br>📫 How to reach me sadgidmahfuz@gmail.com
+🔭 I’m currently working on Vocabulaire App<br>🌱 I’m currently learning Next.js & React<br>📫 How to reach me sadgidmahfuz@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaiyanMFZ&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
